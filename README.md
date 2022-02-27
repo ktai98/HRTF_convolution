@@ -59,4 +59,5 @@ URL:https://www.ne.jp/asahi/music/myuu/wave/wave.htm
 
 ◆更新履歴
 2022/01/09 .exeファイル化、本ファイル(readme)作成
+
 2022/02/27 ソースコードのみgithubに公開
